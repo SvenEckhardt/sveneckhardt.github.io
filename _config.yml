@@ -1,5 +1,4 @@
-remote_theme: poole/lanyon
+theme: jekyll-theme-minimal
 title: Sven Eckhardt
 logo: logo.png
 
-theme: jekyll-theme-minimal
