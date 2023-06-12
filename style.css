@@ -1,5 +1,5 @@
 /* global */
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
 .grid-2{
     display: grid;
@@ -9,7 +9,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Crimson+Text', serif;
     background-color: #FAF9F6;
     color: #000000;
 
