@@ -5,7 +5,7 @@
 .grid-2{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    column-gap: 10%;
+    column-gap: 5%;
 }
 
 th, td {
